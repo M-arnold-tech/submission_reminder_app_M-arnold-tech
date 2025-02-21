@@ -94,11 +94,11 @@ chmod u+x startup.sh
 
 cat <<EOL > ~/shell_scripting_lab/submission_reminder_app/assets/submissions.txt
 student, assignment, submission status
-prince, Shell Navigation, submitted
-teta, Shell Navigation, not submitted
-joseph, Shell Navigation, submitted
-eric, Shell Navigation, submitted
-liena, Shell Navigation, not submitted
-John, Shell Navigation, not submitted
+here, Shell Navigation, submitted
+Tessy, Shell Navigation, not submitted
+Jacob, Shell Navigation, submitted
+elohe, Shell Navigation, submitted
+lyn, Shell Navigation, not submitted
+Jenifer, Shell Navigation, not submitted
 laura, Shell Navigation, submitted
 EOL
