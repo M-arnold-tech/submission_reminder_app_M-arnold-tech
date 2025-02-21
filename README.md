@@ -1,2 +1,2 @@
-# submission_reminder_app_M-arnold-tech
-Individual lab for submission_reminder_app
+This project is individual lab for build a basic application that
+ alerts students about upcoming assignment deadlines.
